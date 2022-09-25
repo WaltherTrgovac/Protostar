@@ -218,8 +218,6 @@ def front_page():
 
         screen.fill(WHITE)
 
-        screen.blit(image1, (0,0))
-
         largeText = pygame.font.Font(None, 140)
         screen.blit(largeText.render("Protostar", True, BLUE), (389, 50))
 
