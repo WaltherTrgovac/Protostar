@@ -20,7 +20,7 @@ Protostar 🌠
   🔍 How it works
 </h2>
 <p>
-  The project is written in Python using pygame library. In order to make the cubes move, they are not actually "moving" but the cubes are drawn on the screen in every frame on different positions and the result of that is the effect of moving. Most commonly used class for drawing all the objects is <b>Pygame.Rect</b>. 
+  The project is written in Python using pygame library. In order to make the cubes move, they are not actually "moving" but the cubes are drawn on the screen in every frame on different positions and the result of that is the effect of moving. Most commonly used class for drawing all the objects is <b>Pygame.Rect</b>. This class allows storing and manipulating rectangular areas, which was a great use for this project.
 </p>
 <h2>
   📖 Getting Started
